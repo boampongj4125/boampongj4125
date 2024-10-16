@@ -1,8 +1,6 @@
 ![Datadreamer and Storyteller](https://media.licdn.com/dms/image/v2/D4D16AQEa2DRSchw_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727448307511?e=1734566400&v=beta&t=P4jYFdZ8LbPwCoGVLbWq168ENiOkG7t31UPkuwkxsRU)
 
 ### Hi there 👋, I'm Josephine Boampong
-#### Datadreamer and Storyteller
-
 
 I'm Josephine from Ghana, and I'm an aspiring Business Analyst currently working towards a Master’s in Business Analytics at Brandeis University. With a solid background in Statistics and over two years of practical experience in banking and data analytics. I'm passionate about transforming data into insights, insights into stories, and stories into action
 
